@@ -1,4 +1,4 @@
-class Libmarpa < Formula
+class LibmarpaVal < Formula
   desc "Marpa parse engine C library -- STABLE"
   homepage "https://jeffreykegler.github.io/Marpa-web-site/libmarpa.html"
   url "https://github.com/jeffreykegler/libmarpa/archive/refs/tags/v8.6.2.tar.gz"
